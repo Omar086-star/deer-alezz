@@ -30,7 +30,7 @@ export default function Header() {
             </Link>
           </div>
 
-          <Button className="bg-primary hover:bg-primary/90">تبرع الآن</Button>
+          {/* <Button className="bg-primary hover:bg-primary/90">تبرع الآن</Button> */}
         </nav>
       </div>
     </header>
