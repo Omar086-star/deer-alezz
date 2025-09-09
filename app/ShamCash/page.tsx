@@ -11,7 +11,7 @@ export default function BakeryProjectPage() {
   return (
     <div className="min-h-screen bg-background">
       <Header />
-      <div className="text-center mb-10 py-20"> <h1 className="text-3xl py-10 md:text-4xl font-extrabold text-[#045b4c] mb-4">
+      <div className="text-center mb-10 py-20"> <h1 className="text-3xl text-3333xlr py-10 md:text-4xl font-extrabold text-[#045b4c] mb-4">
 استخدم الكود التالي للتبرع عبر تطبيق شام كاش           </h1> 
           
           </div>
