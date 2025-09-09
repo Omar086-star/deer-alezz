@@ -45,7 +45,7 @@ export const metadata: Metadata = {
     url: "https://deir-al-izz.vercel.app",
     siteName: "حملة دير العز",
     title: "حملة دير العز - إعادة الأمل لدير الزور",
-    description: "حملة إنسانية شاملة لإعادة إعمار دير الزور وجمع 5 مليون دولار للبنية التحتية والخدمات الأساسية",
+    description: "حملة إنسانية شاملة لإعادة إعمار دير الزور وجمع 25 مليون دولار للبنية التحتية والخدمات الأساسية",
     images: [
       {
         url: "/images/deir-al-izz-banner.jpg",
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "حملة دير العز - إعادة الأمل لدير الزور",
-    description: "حملة إنسانية شاملة لإعادة إعمار دير الزور وجمع 5 مليون دولار للبنية التحتية والخدمات الأساسية",
+    description: "حملة إنسانية شاملة لإعادة إعمار دير الزور وجمع 25 مليون دولار للبنية التحتية والخدمات الأساسية",
     images: ["/images/deir-al-izz-banner.jpg"],
   },
   robots: {
