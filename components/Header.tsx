@@ -19,13 +19,13 @@ export default function Header() {
           </Link>
 
           <div className="hidden md:flex items-center gap-6">
-            <Link href="/" className="text-foreground hover:text-primary transition-colors">
+            <Link href="/" className="text-xl hover:text-primary transition-colors">
               الرئيسية
             </Link>
-            <Link href="/campaign" className="text-foreground hover:text-primary transition-colors">
+            <Link href="/campaign" className="text-xl hover:text-primary transition-colors">
               الحملة
             </Link>
-            <Link href="/gallery" className="text-foreground hover:text-primary transition-colors">
+            <Link href="/gallery" className="text-xl hover:text-primary transition-colors">
               الصور
             </Link>
           </div>

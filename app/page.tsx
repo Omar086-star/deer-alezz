@@ -3,6 +3,7 @@ import Footer from "@/components/Footer"
 import DonateLinks from "@/components/DonateLinks"
 import AboutSnippet from "@/components/AboutSnippet"
 import Hero from "@/components/Hero"
+import ProjectsSwiper from "@/components/ProjectsSwiper"
 
 export default function HomePage() {
   return (
@@ -16,6 +17,9 @@ export default function HomePage() {
     </section>
 
         <AboutSnippet />
+
+              <ProjectsSwiper />
+
       </main>
 
 

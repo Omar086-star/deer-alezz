@@ -33,11 +33,20 @@ const donationLinks: DonationLink[] = [
     logo: "/logos/as.png",
     logoBg: "bg-white/90",
   },
+
+
+    {
+    name: " شام كاش     ",
+    url: "/ShamCash",
+    color: "bg-accent hover:bg-accent/90 textDeer",
+    logo: "/logos/ShamCash-01.png",
+    logoBg: "bg-white/90",
+  },
 ]
 
 export default function DonateLinks() {
   return (
-    <div className="grid py-20 bgeE grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
+    <div className="grid py-20 bgeE grid-cols-1 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
       {donationLinks.map((link, index) => (
         <Button
           key={index}

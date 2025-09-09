@@ -20,17 +20,15 @@ export default function Hero() {
 
       {/* Content */}
       <div className="relative z-10 container mx-auto bg-ttew px-4 text-center text-white">
-        <h1 className="text-4xl md:text-6xl font-bold mb-6 text-balance drop-shadow-lg">حملة دير العز</h1>
+        <h1 className="text-4xl md:text-6xl font-bold mb-6 dede py-10 text-balance drop-shadow-lg">حملة دير العز</h1>
         <p className="text-xl md:text-3xl font-semibold mb-8    text-accent drop-shadow-md">
           إعادة الأمل والحياة لدير الزور
         </p>
 
         <div className="max-w-3xl  mx-auto mb-12">
-          <p className="text-2xl leading-relaxed   drop-shadow-md">
-            حملة إنسانية شاملة تهدف إلى جمع 25  مليون دولار لإعادة إعمار دير الزور وتوفير البنية التحتية والخدمات الأساسية
-            للمجتمع. نعمل على سبعة مجالات رئيسية: البنية التحتية، الأمن والسلامة، الإسكان، الصحة، التعليم، الأمن
-            الغذائي، والخدمات المجتمعية.
-          </p>
+          <p className="text-2xl leading-relaxed dede py-20 drop-shadow-md">
+حملة أهلية شعبية برعاية محافظة دير الزور وبالتعاون مع وزارة الثقافة السورية، يشرف عليها مجلس أمناء، وتهدف إلى النهوض بالمحافظة (مدينةً وريفاً) بمشاركة أبنائها ومحبيها من الداخل والخارج.
+تركّز الحملة على قطاعات حيوية تشمل: البنية التحتية، الصحة، التعليم، الإسكان، المجتمع، والأمن الغذائي، وتسعى لجمع أكثر من 25 مليون دولار لترسيخ ثقافة التطوع والتكافل وتعزيز المسؤولية الجماعية.          </p>
         </div>
 
  

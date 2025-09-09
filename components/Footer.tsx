@@ -3,26 +3,26 @@ import { FaWhatsapp, FaInstagram, FaFacebook, FaXTwitter, FaTelegram } from "rea
 
 export default function Footer() {
   return (
-    <footer className="bg-tte border-t border-border mt-16">
+    <footer className="bg-tte border-t border-border bbbb mt-16">
       <div className="container mx-auto px-4 py-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-lg font-bold   mb-4">حملة دير العز</h3>
-            <p className=" ">حملة حملة أهلية شعبية لإعادة إعمار دير الزور وإعادة الأمل للمجتمع</p>
+            <h3 className="text-2xl font-bold   mb-4">حملة دير العز</h3>
+            <p className=" text-xl">حملة حملة أهلية شعبية لإعادة إعمار دير الزور وإعادة الأمل للمجتمع</p>
           </div>
 
           <div>
-            <h4 className="font-semibold mb-4">روابط سريعة</h4>
+            <h4 className="font-semibold text-2xl mb-4">روابط سريعة</h4>
             <ul className="space-y-2  ">
-              <li><a href="/" className="   ">الرئيسية</a></li>
-              <li><a href="/campaign" className="   ">الحملة</a></li>
-              <li><a href="/gallery" className="   ">الصور</a></li>
+              <li><a href="/" className="  text-xl ">الرئيسية</a></li>
+              <li><a href="/campaign" className=" text-xl  ">الحملة</a></li>
+              <li><a href="/gallery" className=" text-xl  ">الصور</a></li>
             </ul>
           </div>
 
           <div>
-            <h4 className="font-semibold mb-4">تواصل معنا</h4>
-            <p className="  mb-3">للاستفسارات والمعلومات الإضافية</p>
+            <h4 className="font-semibold text-2xl mb-4">تواصل معنا</h4>
+            <p className="  text-xl mb-3">للاستفسارات والمعلومات الإضافية</p>
 
             <div className="flex items-center gap-3">
               {/* WhatsApp */}
@@ -83,7 +83,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-border mt-8 pt-8 text-center ">
+        <div className="border-t border-border text-l mt-8 pt-8 text-center ">
           <p>&copy; 2025 حملة دير العز. جميع الحقوق محفوظة.</p>
         </div>
       </div>
