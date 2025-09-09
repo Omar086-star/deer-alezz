@@ -21,7 +21,7 @@ const donationLinks: DonationLink[] = [
   },
   {
     name: "انصر",
-    url: "https://www.onsur.org/DeirAlezz", // ← أضفت https://
+    url: "deiralezz.onsur.org", // ← أضفت https://
     color: "bg-accent hover:bg-accent/90 textDeer",
     logo: "/logos/ons.png",
     logoBg: "bg-white/90",

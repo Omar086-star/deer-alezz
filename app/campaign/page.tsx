@@ -52,7 +52,7 @@ export default function CampaignPage() {
               <div className="prose prose-lg max-w-none text-foreground leading-relaxed">
                 <p className="text-lg mb-6">
                   تأتي حملة دير العز كاستجابة شاملة لحاجة المجتمع في دير الزور لإعادة بناء حياتهم وتطوير مدينتهم. نهدف
-                  من خلال هذه الحملة إلى جمع 5 مليون دولار لتنفيذ مشاريع حيوية تغطي جميع جوانب الحياة الأساسية.
+                  من خلال هذه الحملة إلى جمع 25 مليون دولار لتنفيذ مشاريع حيوية تغطي جميع جوانب الحياة الأساسية.
                 </p>
 
                 <p className="text-lg mb-6">

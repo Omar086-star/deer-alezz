@@ -20,7 +20,7 @@ export default function Hero() {
 
       {/* Content */}
       <div className="relative z-10 container mx-auto bg-ttew px-4 text-center text-white">
-        <h1 className="text-4xl md:text-6xl font-bold mb-6 dede py-10 text-balance drop-shadow-lg">حملة دير العز</h1>
+        <h1 className="text-4xl md:text-6xl font-bold mb-6 dedes py-10 text-balance drop-shadow-lg">حملة دير العز</h1>
         <p className="text-xl md:text-3xl font-semibold mb-8    text-accent drop-shadow-md">
           إعادة الأمل والحياة لدير الزور
         </p>
