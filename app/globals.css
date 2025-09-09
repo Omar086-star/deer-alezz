@@ -118,9 +118,9 @@
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
 }
- * {
+ *{
 
-    font-family:  'cairo';
+    font-family:  'NOOR';
   }
 .flexxxx{
   display: flex;
@@ -193,6 +193,7 @@ font-size: larger;  color: #f89500;
 @media (max-width:776px) {
   .dede{
     padding: 0 !important;
+    font-size: 16px !important;
   }
 }
 

@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div>
             <h3 className="text-2xl font-bold   mb-4">حملة دير العز</h3>
-            <p className=" text-xl">حملة حملة أهلية شعبية لإعادة إعمار دير الزور وإعادة الأمل للمجتمع</p>
+            <p className=" text-xl">حملة   أهلية شعبية لإعادة إعمار دير الزور وإعادة الأمل للمجتمع</p>
           </div>
 
           <div>
