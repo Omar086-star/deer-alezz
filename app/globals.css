@@ -120,7 +120,7 @@
 }
  *{
 
-    font-family:  'NOOR';
+    font-family:  'Noto Sans Arabic';
   }
 .flexxxx{
   display: flex;
@@ -179,9 +179,16 @@ font-size: larger;  color: #f89500;
   padding-top: 20px;
 }
 .bger{
-    background-color: #045b4d;
+    background-color: #045b4d !important;
   width: 100% !important;
 
+}
+
+.color1{
+  color: #dea045;
+}
+.color2{
+  color: #045b4d;
 }
 .bgeborder{
   border:  2px solid #045b4c;
@@ -192,6 +199,10 @@ font-size: larger;  color: #f89500;
 }
 .textDeer{
   color: #045b4c !important;
+}
+
+.py-ttt{
+  padding-top: 250px;
 }
 @media (max-width:776px) {
   .dede{
